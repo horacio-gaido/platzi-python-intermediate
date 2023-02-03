@@ -1,2 +1,3 @@
 # platzi-python-intermediate
-Ejercicios realizados en el curso intermedio de python
+# Profesor Facundo Garcia Martoni
+## Ejercicios realizados en el curso intermedio de Python
